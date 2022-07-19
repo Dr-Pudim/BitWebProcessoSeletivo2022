@@ -15,4 +15,12 @@ Repositório do curso Frontend do processo seletivo da empresa junior BitWebJr d
 
 ## Aula 4
 
-- [Parte 1](https://drive.google.com/file/d/1n6szUM-BHgcC2zD1vlbHHXui-tvYwcQg/view?usp=sharing)
+- [Parte Unica](https://drive.google.com/file/d/1n6szUM-BHgcC2zD1vlbHHXui-tvYwcQg/view?usp=sharing)
+
+## Aula 5
+
+- [Parte Unica](https://drive.google.com/file/d/1rLqifuu39-cTaN4yd276_LBsXBRZ59yC/view?usp=sharing)
+
+## Aula 6
+
+- [Parte Unica](https://drive.google.com/file/d/1l-ctUzmnl7REl9ZWu7ybquxbpvN2vDTf/view?usp=sharing)
