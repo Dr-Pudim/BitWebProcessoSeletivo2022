@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Berkshire+Swash&display=swap');
+
+:root {
+    --primary-color: #E84D8A;
+    --secondary-color: #7e54b1;
+    --hover-color: #A56FE9;
+    --light-color: #fff;
+    --Bebas: "Bebas Neue";
+    --Berkshire: "Berkshire Swash";
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: whitesmoke;
+    overflow-x: hidden;
+}
+
+/* Navbar */
+.navbar .nav-link:hover, .navbar .navbar-brand:hover {
+    color: var(--primary-color);
+}
+
+.navbar {
+    background-color: var(--light-color);
+}
+
+.navbar .navbar-brand {
+    font-family: var(--Berkshire);
+}
+
+.navbar .nav-link {
+    font-family: var(--Bebas);
+    letter-spacing: 3px;
+}
+
+/* Banner */
+.banner .bg-purple {
+    background-color: var(--secondary-color)!important;
+    font-family: var(--Bebas)!important;
+    letter-spacing: 3px;
+
+}
+
+.banner .bg-purple:hover {
+    background-color: var(--hover-color);
+    border: var(--hover-color);
+
+}
+
+.bg-pink {
+    background-color: var(--primary-color);
+    color: var(--light-color);
+}
+
+.bg-pink h1 {
+    font-family: var(--Berkshire);
+    letter-spacing: 3px;
+}
+
+.bg-pink p {
+    font-family: var(--Bebas);
+    letter-spacing: 3px;
+}
+
+/* Serviços */
+.servicos h2 {
+    font-family: var(--Berkshire);
+    letter-spacing: 3px;
+}
+
+.servicos a {
+    font-family: var(--Bebas);
+    letter-spacing: 3px;
+}
+
+/* Produtos */
+.card {
+    font-family: var(--Bebas);
+    letter-spacing: 3px;
+}
+
+/* Menu */
+.menu h2 {
+    font-family: var(--Berkshire);
+    letter-spacing: 3px;
+}
+.carousel-item h5{
+    font-family: var(--Bebas);
+    letter-spacing: 2.5px;
+}
+
+#carouselExampleSlidesOnly .carousel-item img {
+    object-fit: cover;
+    object-position: center;
+    height: 50vh;
+    overflow: hidden;
+  }
+
+/* Inscrição */
+.inscricao .bg-purple {
+    background-color: var(--secondary-color)!important;
+    font-family: var(--Bebas)!important;
+    letter-spacing: 3px;
+    color: var(--light-color)!important;
+}
+
+.inscricao h2{
+    font-family: var(--Berkshire);
+    letter-spacing: 3px;
+}
+
+.inscricao .bg-purple:hover {
+    background-color: var(--hover-color)!important;
+    border: var(--hover-color)!important;
+}
